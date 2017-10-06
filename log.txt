@@ -1,0 +1,7 @@
+v0.0.1
+- added something
+v0.0.2
+- added grid at display
+- fixed reader
+v0.2.0
+- added everything (I regret not writing on this log)

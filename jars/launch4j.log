@@ -1,0 +1,23 @@
+
+
+Version:	3.9
+CmdLine:	G:\Projects\Programming Projects\Eclipse Projects\Traffic Flow Simulator Phase II\jars\TrafficFlowSimulator_001.exe --l4j-debug
+WOW64:		yes
+Working dir:	G:\Projects\Programming Projects\Eclipse Projects\Traffic Flow Simulator Phase II\jars\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_51\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_51
+Check launcher:	C:\Program Files\Java\jre1.8.0_51\bin\javaw.exe (OK)
+Match:		1.8.0_051
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7
+Ignore:		1.7
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7.0_79
+Ignore:		1.7.0_079
+Runtime used:	1.8.0_051 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_51\bin\javaw.exe
+Launcher args:	-jar "G:\Projects\Programming Projects\Eclipse Projects\Traffic Flow Simulator Phase II\jars\TrafficFlowSimulator_001.exe"
+Args length:	122/32768 chars
+Exit code:	0
